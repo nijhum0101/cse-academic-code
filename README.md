@@ -33,9 +33,15 @@ Helps beginners practice loops and indexing.
 ### ArrayMax.java
 - Finds the maximum value in a given array.
 - Introduces comparison logic in loops.
-- 
+-  
 ### nDArrayExample.java
 - Demonstrates declaration, initialization, and printing of n arrays.
 - Shows nested loop traversal.
+
+### functions
+ -Demonstrates creating and calling a method to reuse code.
+
+### class and object
+ -
 
 
