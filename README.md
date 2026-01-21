@@ -14,4 +14,6 @@ Loops are used to repeat a block of code multiple times without writing it repea
 
 Demonstrates switch-case for multiple condition checking.
 
+Demonstrates repeating a block of code using while loop.
+
 
