@@ -12,4 +12,6 @@ if else==condition          (this or that type)
 loop: Used for a fixed number of iterations.
 Loops are used to repeat a block of code multiple times without writing it repeatedly.
 
+Demonstrates switch-case for multiple condition checking.
+
 
