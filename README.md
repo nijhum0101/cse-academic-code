@@ -7,4 +7,6 @@ System.out.println() is used to print output to the console.
 
 Scanner class is used to take user input from the keyboard.
 
+if else==condition
+
 
